@@ -1,3 +1,7 @@
+---
+keywords: abc
+---
+
 # Configure a Proxy
 
 It is sometimes useful to front Go with a proxy server. In this section, we give you some tips and examples on how to achieve this.

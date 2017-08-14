@@ -1,3 +1,7 @@
+---
+abc: abc
+---
+
 # Beta feature: Upload plugins, from within Go, without restarting the server
 
 <div style="background-color: rgba(0, 192, 0, 0.25); padding: 5px; margin-bottom: 1em">
